@@ -1,8 +1,8 @@
-# Игнорирование папки с временными копиями
-/Hardware/Altium_project/History
+﻿# Игнорирование папки с временными копиями
+/Hardware/Altium_project/History/
 
 # Игнорирование папки с даташитами
-/Doc/pdf
+/Doc/pdf/
 
 # Игнорирование всех превью
 *.PcbDocPreview

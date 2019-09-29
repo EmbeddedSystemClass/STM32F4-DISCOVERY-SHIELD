@@ -6,6 +6,10 @@ $ cat .gitignore
 # игнорирование папки с даташитами
 *Doc/pdf/
 
+# игнорирование папки с STEP-моделями
+*Mechanical/
+
+
 # игнорирование всех превью
 *.PcbDocPreview
 *.SchDocPreview

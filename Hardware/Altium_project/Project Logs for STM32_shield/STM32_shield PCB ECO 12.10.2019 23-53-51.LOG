@@ -1,0 +1,966 @@
+Added Component: Designator=A1(MIKROBUS HOST CONN.)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8 (2pcs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=A2(MIKROBUS HOST CONN.)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8 (2pcs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=A3(MIKROBUS HOST CONN.)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8 (2pcs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=A4(MIKROBUS HOST CONN.)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8 (2pcs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/AVX/TAJB106K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "1.2Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case B (3528)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJB106K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 10?F, 16V, ±10%, 1.2Ohm, case B (3528), -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/AVX/TAJB106K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "1.2Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case B (3528)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJB106K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 10?F, 16V, ±10%, 1.2Ohm, case B (3528), -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL21A106KPFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL21A106KPFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 10uF, X5R, ±10%, 10V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/SAMSUNG/CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1uF, X7R, ±10%, 50V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(8-SOIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "IC CAN transceiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "5Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/NXP/TJA1042T%3A%3A3.118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TJA1042T/3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC CAN transceiver, 5Mbps, TypeDuplex, 5V, -40...+85∞C, SO8"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DPAK(LDO))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "Linear voltage regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentOutput"; Value = "0.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/ST/LD29080DT33R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxDropout"; Value = "0.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DPAK(TO-252)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LD29080DT33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Linear voltage regulator, input 4.3...8.8V, 0.4V, output 3.3V, 0.8A, -40...+85∞C, DPAK(TO-252)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageInput"; Value = "input 4.3...8.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageOutput"; Value = "output 3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SSOP-28_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "UART-USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/FTDI/FT232RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FT232RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(CON: PBD-50)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PBD-50 (DS1023-2x25)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = "PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–ÓÁÂÚÍ‡"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HD2(CON: PBD-50)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PBD-50 (DS1023-2x25)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = "PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–ÓÁÂÚÍ‡"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HD3(CON: PBD-50)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–ÓÁÂÚÍ‡"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HD4(CON: PBD-50)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/CONNFLY/PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PBD-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–ÓÁÂÚÍ‡"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(CON: PLS-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""120""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-2"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/MUR/BLM21PG331SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "1500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BLM21PG331SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330Ohm@100Mhz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 330Ohm@100Mhz, Tolerance, 0805, 1500mA, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/MUR/BLM21PG331SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "1500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BLM21PG331SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330Ohm@100Mhz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 330Ohm@100Mhz, Tolerance, 0805, 1500mA, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0R, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 330, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 330, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10k, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10k, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/YAG/RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10k, ±1%, 0603, 0.1W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Breakdown Voltage"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/NEX-NXP/PESD2CAN.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NEXPERIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD2CAN.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-65...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "ESD Suppressors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "ESD Suppressors, Voltage, Current, VoltageDrop, RecoveryTime, SOT-23-3, -65...+150∞C"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED: 0402B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/FORYARD/FYLS-0603UGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Foryard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FYLS-0603UGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, *, *, *, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SOT23-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/ST/USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23-6L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "USBLC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "USB ESD protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB ESD protection, 5V, Current, VoltageDrop, RecoveryTime, SOT23-6L, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(LED: 0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/FORYARD/FYLS-0603URC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Foryard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FYLS-0603URC / Foryard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, *, *, 0603, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(CON: USB micro-A (ZX62-B-5PA))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""USB""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/HI/ZX62-B-5PA%5B33%5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ZX62-B-5PA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "USB micro B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB micro B"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(CON: PLS-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "\\Datasrv\‰Ë‚ËÁËÓÌ ˝Ô\works\ƒÂÔ‡Ú‡ÏÂÌÚ ‡Á‡·ÓÚÍË\Ó—Ë—–\ ŒÃœÀ≈ “¿÷»ﬂ\‡Á˙ÂÏ˚\pls.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26.12.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Control pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(CON: PLS-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "\\Datasrv\‰Ë‚ËÁËÓÌ ˝Ô\works\ƒÂÔ‡Ú‡ÏÂÌÚ ‡Á‡·ÓÚÍË\Ó—Ë—–\ ŒÃœÀ≈ “¿÷»ﬂ\‡Á˙ÂÏ˚\pls.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26.12.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Control pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP3(CON: PLS-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "\\Datasrv\‰Ë‚ËÁËÓÌ ˝Ô\works\ƒÂÔ‡Ú‡ÏÂÌÚ ‡Á‡·ÓÚÍË\Ó—Ë—–\ ŒÃœÀ≈ “¿÷»ﬂ\‡Á˙ÂÏ˚\pls.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26.12.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Control pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP4(CON: PLS-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "\\Datasrv\‰Ë‚ËÁËÓÌ ˝Ô\works\ƒÂÔ‡Ú‡ÏÂÌÚ ‡Á‡·ÓÚÍË\Ó—Ë—–\ ŒÃœÀ≈ “¿÷»ﬂ\‡Á˙ÂÏ˚\pls.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern/Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26.12.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "TEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes/Designator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Control pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT1(CON: MPT 0,5/ 2-2,54 (Phoenix))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""–‡Á˙ÂÏ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL2"; Value = "https://www.electronshik.ru/item/DEGSON/DG308-2.54-02P-14-00A%5BH%5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = " ËÚ‡È"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "308-021-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = " ÎÂÏÏÌËÍ ‚ËÌÚÓ‚ÓÈ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = " ÎÂÏÏÌËÍ ‚ËÌÚÓ‚ÓÈ, 2pin, 2.54m, 250¬, 8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250¬"; VariantName = "[No Variations]"
+Added Component: Designator=XT2(CON: MPT 0,5/ 2-2,54 (Phoenix))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""–‡Á˙ÂÏ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL2"; Value = "https://www.electronshik.ru/item/DEGSON/DG308-2.54-02P-14-00A%5BH%5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = " ËÚ‡È"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "308-021-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = " ÎÂÏÏÌËÍ ‚ËÌÚÓ‚ÓÈ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = " ÎÂÏÏÌËÍ ‚ËÌÚÓ‚ÓÈ, 2pin, 2.54m, 250¬, 8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250¬"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=C11-2
+Added Pin To Net: NetName=3V Pin=D3-4
+Added Pin To Net: NetName=3V Pin=HD2-5
+Added Pin To Net: NetName=3V Pin=HD2-6
+Added Pin To Net: NetName=3V Pin=HD3-3
+Added Pin To Net: NetName=3V Pin=HD3-4
+Added Pin To Net: NetName=3V Pin=HD4-3
+Added Pin To Net: NetName=3V Pin=HD4-4
+Added Pin To Net: NetName=3V Pin=HD4-5
+Added Pin To Net: NetName=3V Pin=HD4-6
+Added Net: Name=3V
+Added Pin To Net: NetName=5V Pin=A1-10
+Added Pin To Net: NetName=5V Pin=A2-10
+Added Pin To Net: NetName=5V Pin=A3-10
+Added Pin To Net: NetName=5V Pin=A4-10
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=5V Pin=C10-2
+Added Pin To Net: NetName=5V Pin=D1-3
+Added Pin To Net: NetName=5V Pin=D3-20
+Added Pin To Net: NetName=5V Pin=HD2-3
+Added Pin To Net: NetName=5V Pin=HD2-4
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Net: Name=5V
+Added Pin To Net: NetName=BOOT0 Pin=HD2-21
+Added Pin To Net: NetName=BOOT0 Pin=HD4-21
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CAN_N Pin=D1-6
+Added Pin To Net: NetName=CAN_N Pin=J1-1
+Added Pin To Net: NetName=CAN_N Pin=VD1-2
+Added Pin To Net: NetName=CAN_N Pin=XT2-1
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=D1-7
+Added Pin To Net: NetName=CAN_P Pin=R1-2
+Added Pin To Net: NetName=CAN_P Pin=VD1-1
+Added Pin To Net: NetName=CAN_P Pin=XT1-2
+Added Net: Name=CAN_P
+Added Pin To Net: NetName=FTDI-D_N Pin=D3-16
+Added Pin To Net: NetName=FTDI-D_N Pin=VD3-1
+Added Pin To Net: NetName=FTDI-D_N Pin=X1-2
+Added Net: Name=FTDI-D_N
+Added Pin To Net: NetName=FTDI-D_P Pin=D3-15
+Added Pin To Net: NetName=FTDI-D_P Pin=VD3-6
+Added Pin To Net: NetName=FTDI-D_P Pin=X1-3
+Added Net: Name=FTDI-D_P
+Added Pin To Net: NetName=GND Pin=A1-8
+Added Pin To Net: NetName=GND Pin=A1-9
+Added Pin To Net: NetName=GND Pin=A2-8
+Added Pin To Net: NetName=GND Pin=A2-9
+Added Pin To Net: NetName=GND Pin=A3-8
+Added Pin To Net: NetName=GND Pin=A3-9
+Added Pin To Net: NetName=GND Pin=A4-8
+Added Pin To Net: NetName=GND Pin=A4-9
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-8
+Added Pin To Net: NetName=GND Pin=D2-TAB
+Added Pin To Net: NetName=GND Pin=D3-7
+Added Pin To Net: NetName=GND Pin=D3-18
+Added Pin To Net: NetName=GND Pin=D3-21
+Added Pin To Net: NetName=GND Pin=D3-25
+Added Pin To Net: NetName=GND Pin=D3-26
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Pin To Net: NetName=GND Pin=HD1-5
+Added Pin To Net: NetName=GND Pin=HD1-23
+Added Pin To Net: NetName=GND Pin=HD1-49
+Added Pin To Net: NetName=GND Pin=HD1-50
+Added Pin To Net: NetName=GND Pin=HD2-1
+Added Pin To Net: NetName=GND Pin=HD2-2
+Added Pin To Net: NetName=GND Pin=HD2-49
+Added Pin To Net: NetName=GND Pin=HD2-50
+Added Pin To Net: NetName=GND Pin=HD3-1
+Added Pin To Net: NetName=GND Pin=HD3-2
+Added Pin To Net: NetName=GND Pin=HD3-5
+Added Pin To Net: NetName=GND Pin=HD3-23
+Added Pin To Net: NetName=GND Pin=HD3-49
+Added Pin To Net: NetName=GND Pin=HD3-50
+Added Pin To Net: NetName=GND Pin=HD4-1
+Added Pin To Net: NetName=GND Pin=HD4-2
+Added Pin To Net: NetName=GND Pin=HD4-49
+Added Pin To Net: NetName=GND Pin=HD4-50
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=VD1-3
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XT2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_11 Pin=A2-11
+Added Pin To Net: NetName=NetA1_11 Pin=HD2-24
+Added Pin To Net: NetName=NetA1_11 Pin=HD4-24
+Added Net: Name=NetA1_11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_12 Pin=A2-12
+Added Pin To Net: NetName=NetA1_12 Pin=HD2-19
+Added Pin To Net: NetName=NetA1_12 Pin=HD4-19
+Added Net: Name=NetA1_12
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=HD1-19
+Added Pin To Net: NetName=NetA3_1 Pin=HD3-19
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetA3_16 Pin=A3-16
+Added Pin To Net: NetName=NetA3_16 Pin=HD1-21
+Added Pin To Net: NetName=NetA3_16 Pin=HD3-21
+Added Net: Name=NetA3_16
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=NetA4_1 Pin=HD1-22
+Added Pin To Net: NetName=NetA4_1 Pin=HD3-22
+Added Net: Name=NetA4_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=D3-17
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=HD2-33
+Added Pin To Net: NetName=NetD1_1 Pin=HD4-33
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=HD2-36
+Added Pin To Net: NetName=NetD1_4 Pin=HD4-36
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=HD1-13
+Added Pin To Net: NetName=NetD3_1 Pin=HD3-13
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_5 Pin=D3-5
+Added Pin To Net: NetName=NetD3_5 Pin=HD1-14
+Added Pin To Net: NetName=NetD3_5 Pin=HD3-14
+Added Net: Name=NetD3_5
+Added Pin To Net: NetName=NetD3_19 Pin=D3-19
+Added Pin To Net: NetName=NetD3_19 Pin=R5-1
+Added Pin To Net: NetName=NetD3_19 Pin=R6-2
+Added Net: Name=NetD3_19
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=X1-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=X1-4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=VD2-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VD4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NRST Pin=HD1-6
+Added Pin To Net: NetName=NRST Pin=HD3-6
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA0 Pin=HD1-12
+Added Pin To Net: NetName=PA0 Pin=HD3-12
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1/TIM-2/5 Pin=A1-16
+Added Pin To Net: NetName=PA1/TIM-2/5 Pin=HD1-11
+Added Pin To Net: NetName=PA1/TIM-2/5 Pin=HD3-11
+Added Net: Name=PA1/TIM-2/5
+Added Pin To Net: NetName=PA4 Pin=HD1-16
+Added Pin To Net: NetName=PA4 Pin=HD3-16
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=HD1-15
+Added Pin To Net: NetName=PA5 Pin=HD3-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=HD1-18
+Added Pin To Net: NetName=PA6 Pin=HD3-18
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=HD1-17
+Added Pin To Net: NetName=PA7 Pin=HD3-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8/I2C3-SCL Pin=A3-12
+Added Pin To Net: NetName=PA8/I2C3-SCL Pin=A4-12
+Added Pin To Net: NetName=PA8/I2C3-SCL Pin=HD2-43
+Added Pin To Net: NetName=PA8/I2C3-SCL Pin=HD4-43
+Added Net: Name=PA8/I2C3-SCL
+Added Pin To Net: NetName=PA9 Pin=HD2-44
+Added Pin To Net: NetName=PA9 Pin=HD4-44
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=HD2-41
+Added Pin To Net: NetName=PA10 Pin=HD4-41
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA13 Pin=HD2-42
+Added Pin To Net: NetName=PA13 Pin=HD4-42
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=HD2-39
+Added Pin To Net: NetName=PA14 Pin=HD4-39
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=HD2-40
+Added Pin To Net: NetName=PA15 Pin=HD4-40
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB2 Pin=HD1-24
+Added Pin To Net: NetName=PB2 Pin=HD3-24
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3/SPI13-SCK Pin=A3-4
+Added Pin To Net: NetName=PB3/SPI13-SCK Pin=A4-4
+Added Pin To Net: NetName=PB3/SPI13-SCK Pin=HD2-28
+Added Pin To Net: NetName=PB3/SPI13-SCK Pin=HD4-28
+Added Net: Name=PB3/SPI13-SCK
+Added Pin To Net: NetName=PB4/SPI13-MISO Pin=A3-5
+Added Pin To Net: NetName=PB4/SPI13-MISO Pin=A4-5
+Added Pin To Net: NetName=PB4/SPI13-MISO Pin=HD2-25
+Added Pin To Net: NetName=PB4/SPI13-MISO Pin=HD4-25
+Added Net: Name=PB4/SPI13-MISO
+Added Pin To Net: NetName=PB5/SPI13-MOSI Pin=A3-6
+Added Pin To Net: NetName=PB5/SPI13-MOSI Pin=A4-6
+Added Pin To Net: NetName=PB5/SPI13-MOSI Pin=HD2-26
+Added Pin To Net: NetName=PB5/SPI13-MOSI Pin=HD4-26
+Added Net: Name=PB5/SPI13-MOSI
+Added Pin To Net: NetName=PB6 Pin=HD2-23
+Added Pin To Net: NetName=PB6 Pin=HD4-23
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB9 Pin=HD2-20
+Added Pin To Net: NetName=PB9 Pin=HD4-20
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10/UART3-TX Pin=A1-13
+Added Pin To Net: NetName=PB10/UART3-TX Pin=A2-13
+Added Pin To Net: NetName=PB10/UART3-TX Pin=HD1-34
+Added Pin To Net: NetName=PB10/UART3-TX Pin=HD3-34
+Added Net: Name=PB10/UART3-TX
+Added Pin To Net: NetName=PB11/UART3-RX Pin=A1-14
+Added Pin To Net: NetName=PB11/UART3-RX Pin=A2-14
+Added Pin To Net: NetName=PB11/UART3-RX Pin=HD1-35
+Added Pin To Net: NetName=PB11/UART3-RX Pin=HD3-35
+Added Net: Name=PB11/UART3-RX
+Added Pin To Net: NetName=PB12/CS Pin=A1-3
+Added Pin To Net: NetName=PB12/CS Pin=HD1-36
+Added Pin To Net: NetName=PB12/CS Pin=HD3-36
+Added Net: Name=PB12/CS
+Added Pin To Net: NetName=PB13/SPI2-SCK Pin=A1-4
+Added Pin To Net: NetName=PB13/SPI2-SCK Pin=A2-4
+Added Pin To Net: NetName=PB13/SPI2-SCK Pin=HD1-37
+Added Pin To Net: NetName=PB13/SPI2-SCK Pin=HD3-37
+Added Net: Name=PB13/SPI2-SCK
+Added Pin To Net: NetName=PB14/SPI2-MISO Pin=A1-5
+Added Pin To Net: NetName=PB14/SPI2-MISO Pin=A2-5
+Added Pin To Net: NetName=PB14/SPI2-MISO Pin=HD1-38
+Added Pin To Net: NetName=PB14/SPI2-MISO Pin=HD3-38
+Added Net: Name=PB14/SPI2-MISO
+Added Pin To Net: NetName=PB15/SPI2-MOSI Pin=A1-6
+Added Pin To Net: NetName=PB15/SPI2-MOSI Pin=A2-6
+Added Pin To Net: NetName=PB15/SPI2-MOSI Pin=HD1-39
+Added Pin To Net: NetName=PB15/SPI2-MOSI Pin=HD3-39
+Added Net: Name=PB15/SPI2-MOSI
+Added Pin To Net: NetName=PC0 Pin=HD1-8
+Added Pin To Net: NetName=PC0 Pin=HD3-8
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1/ADC123-IN11 Pin=A1-1
+Added Pin To Net: NetName=PC1/ADC123-IN11 Pin=HD1-7
+Added Pin To Net: NetName=PC1/ADC123-IN11 Pin=HD3-7
+Added Net: Name=PC1/ADC123-IN11
+Added Pin To Net: NetName=PC2/ADC123-IN12 Pin=A2-1
+Added Pin To Net: NetName=PC2/ADC123-IN12 Pin=HD1-10
+Added Pin To Net: NetName=PC2/ADC123-IN12 Pin=HD3-10
+Added Net: Name=PC2/ADC123-IN12
+Added Pin To Net: NetName=PC3 Pin=HD1-9
+Added Pin To Net: NetName=PC3 Pin=HD3-9
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=HD1-20
+Added Pin To Net: NetName=PC4 Pin=HD3-20
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC6/UART6-TX Pin=A3-13
+Added Pin To Net: NetName=PC6/UART6-TX Pin=A4-13
+Added Pin To Net: NetName=PC6/UART6-TX Pin=HD2-47
+Added Pin To Net: NetName=PC6/UART6-TX Pin=HD4-47
+Added Net: Name=PC6/UART6-TX
+Added Pin To Net: NetName=PC7/UART6-RX Pin=A3-14
+Added Pin To Net: NetName=PC7/UART6-RX Pin=A4-14
+Added Pin To Net: NetName=PC7/UART6-RX Pin=HD2-48
+Added Pin To Net: NetName=PC7/UART6-RX Pin=HD4-48
+Added Net: Name=PC7/UART6-RX
+Added Pin To Net: NetName=PC8/TIM-3/8 Pin=A4-16
+Added Pin To Net: NetName=PC8/TIM-3/8 Pin=HD2-45
+Added Pin To Net: NetName=PC8/TIM-3/8 Pin=HD4-45
+Added Net: Name=PC8/TIM-3/8
+Added Pin To Net: NetName=PC9/I2C3-SDA Pin=A3-11
+Added Pin To Net: NetName=PC9/I2C3-SDA Pin=A4-11
+Added Pin To Net: NetName=PC9/I2C3-SDA Pin=HD2-46
+Added Pin To Net: NetName=PC9/I2C3-SDA Pin=HD4-46
+Added Net: Name=PC9/I2C3-SDA
+Added Pin To Net: NetName=PC10 Pin=HD2-37
+Added Pin To Net: NetName=PC10 Pin=HD4-37
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11/INT Pin=A4-15
+Added Pin To Net: NetName=PC11/INT Pin=HD2-38
+Added Pin To Net: NetName=PC11/INT Pin=HD4-38
+Added Net: Name=PC11/INT
+Added Pin To Net: NetName=PC12 Pin=HD2-35
+Added Pin To Net: NetName=PC12 Pin=HD4-35
+Added Net: Name=PC12
+Added Pin To Net: NetName=PC13 Pin=HD2-12
+Added Pin To Net: NetName=PC13 Pin=HD4-12
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=HD2-9
+Added Pin To Net: NetName=PC14 Pin=HD4-9
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=HD2-10
+Added Pin To Net: NetName=PC15 Pin=HD4-10
+Added Net: Name=PC15
+Added Pin To Net: NetName=PD2/INT Pin=A3-15
+Added Pin To Net: NetName=PD2/INT Pin=HD2-34
+Added Pin To Net: NetName=PD2/INT Pin=HD4-34
+Added Net: Name=PD2/INT
+Added Pin To Net: NetName=PD3 Pin=HD2-31
+Added Pin To Net: NetName=PD3 Pin=HD4-31
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=HD2-32
+Added Pin To Net: NetName=PD4 Pin=HD4-32
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=HD2-29
+Added Pin To Net: NetName=PD5 Pin=HD4-29
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6/RST Pin=A4-2
+Added Pin To Net: NetName=PD6/RST Pin=HD2-30
+Added Pin To Net: NetName=PD6/RST Pin=HD4-30
+Added Net: Name=PD6/RST
+Added Pin To Net: NetName=PD7/CS Pin=A4-3
+Added Pin To Net: NetName=PD7/CS Pin=HD2-27
+Added Pin To Net: NetName=PD7/CS Pin=HD4-27
+Added Net: Name=PD7/CS
+Added Pin To Net: NetName=PD8 Pin=HD1-40
+Added Pin To Net: NetName=PD8 Pin=HD3-40
+Added Net: Name=PD8
+Added Pin To Net: NetName=PD9 Pin=HD1-41
+Added Pin To Net: NetName=PD9 Pin=HD3-41
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=HD1-42
+Added Pin To Net: NetName=PD10 Pin=HD3-42
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=HD1-43
+Added Pin To Net: NetName=PD11 Pin=HD3-43
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=HD1-44
+Added Pin To Net: NetName=PD12 Pin=HD3-44
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=HD1-45
+Added Pin To Net: NetName=PD13 Pin=HD3-45
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=HD1-46
+Added Pin To Net: NetName=PD14 Pin=HD3-46
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=HD1-47
+Added Pin To Net: NetName=PD15 Pin=HD3-47
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=HD2-17
+Added Pin To Net: NetName=PE0 Pin=HD4-17
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=HD2-18
+Added Pin To Net: NetName=PE1 Pin=HD4-18
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=HD2-15
+Added Pin To Net: NetName=PE2 Pin=HD4-15
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=HD2-16
+Added Pin To Net: NetName=PE3 Pin=HD4-16
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4/RST Pin=A3-2
+Added Pin To Net: NetName=PE4/RST Pin=HD2-13
+Added Pin To Net: NetName=PE4/RST Pin=HD4-13
+Added Net: Name=PE4/RST
+Added Pin To Net: NetName=PE5/CS Pin=A3-3
+Added Pin To Net: NetName=PE5/CS Pin=HD2-14
+Added Pin To Net: NetName=PE5/CS Pin=HD4-14
+Added Net: Name=PE5/CS
+Added Pin To Net: NetName=PE6 Pin=HD2-11
+Added Pin To Net: NetName=PE6 Pin=HD4-11
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7/INT Pin=A1-15
+Added Pin To Net: NetName=PE7/INT Pin=HD1-25
+Added Pin To Net: NetName=PE7/INT Pin=HD3-25
+Added Net: Name=PE7/INT
+Added Pin To Net: NetName=PE8/INT Pin=A2-15
+Added Pin To Net: NetName=PE8/INT Pin=HD1-26
+Added Pin To Net: NetName=PE8/INT Pin=HD3-26
+Added Net: Name=PE8/INT
+Added Pin To Net: NetName=PE9 Pin=HD1-27
+Added Pin To Net: NetName=PE9 Pin=HD3-27
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10/RST Pin=A1-2
+Added Pin To Net: NetName=PE10/RST Pin=HD1-28
+Added Pin To Net: NetName=PE10/RST Pin=HD3-28
+Added Net: Name=PE10/RST
+Added Pin To Net: NetName=PE11 Pin=HD1-29
+Added Pin To Net: NetName=PE11 Pin=HD3-29
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12/RST Pin=A2-2
+Added Pin To Net: NetName=PE12/RST Pin=HD1-30
+Added Pin To Net: NetName=PE12/RST Pin=HD3-30
+Added Net: Name=PE12/RST
+Added Pin To Net: NetName=PE13/TIM-1 Pin=A2-16
+Added Pin To Net: NetName=PE13/TIM-1 Pin=HD1-31
+Added Pin To Net: NetName=PE13/TIM-1 Pin=HD3-31
+Added Net: Name=PE13/TIM-1
+Added Pin To Net: NetName=PE14/CS Pin=A2-3
+Added Pin To Net: NetName=PE14/CS Pin=HD1-32
+Added Pin To Net: NetName=PE14/CS Pin=HD3-32
+Added Net: Name=PE14/CS
+Added Pin To Net: NetName=PE15 Pin=HD1-33
+Added Pin To Net: NetName=PE15 Pin=HD3-33
+Added Net: Name=PE15
+Added Pin To Net: NetName=PH0 Pin=HD2-7
+Added Pin To Net: NetName=PH0 Pin=HD4-7
+Added Net: Name=PH0
+Added Pin To Net: NetName=PH1 Pin=HD2-8
+Added Pin To Net: NetName=PH1 Pin=HD4-8
+Added Net: Name=PH1
+Added Pin To Net: NetName=RX-LED Pin=D3-23
+Added Pin To Net: NetName=RX-LED Pin=VD2-2
+Added Net: Name=RX-LED
+Added Pin To Net: NetName=TX-LED Pin=D3-22
+Added Pin To Net: NetName=TX-LED Pin=VD4-2
+Added Net: Name=TX-LED
+Added Pin To Net: NetName=VBUS Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=L2-2
+Added Pin To Net: NetName=VBUS Pin=R5-2
+Added Pin To Net: NetName=VBUS Pin=VD3-5
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC3.3 Pin=A1-7
+Added Pin To Net: NetName=VCC3.3 Pin=A2-7
+Added Pin To Net: NetName=VCC3.3 Pin=A3-7
+Added Pin To Net: NetName=VCC3.3 Pin=A4-7
+Added Pin To Net: NetName=VCC3.3 Pin=C3-2
+Added Pin To Net: NetName=VCC3.3 Pin=C4-2
+Added Pin To Net: NetName=VCC3.3 Pin=C6-2
+Added Pin To Net: NetName=VCC3.3 Pin=D1-5
+Added Pin To Net: NetName=VCC3.3 Pin=D2-3
+Added Pin To Net: NetName=VCC3.3 Pin=R3-2
+Added Pin To Net: NetName=VCC3.3 Pin=R4-2
+Added Pin To Net: NetName=VCC3.3 Pin=XT1-1
+Added Net: Name=VCC3.3
+Added Pin To Net: NetName=VDD Pin=HD1-3
+Added Pin To Net: NetName=VDD Pin=HD1-4
+Added Pin To Net: NetName=VDD Pin=HD2-22
+Added Pin To Net: NetName=VDD Pin=HD4-22
+Added Net: Name=VDD
+Added Class: Name=ÀËÒÚ1
+Added Class: Name=ÀËÒÚ2
+Added Differential Pair: Name=CAN
+Added Differential Pair: Name=FTDI-D
+Added Room: Name=ÀËÒÚ1
+Added Room: Name=ÀËÒÚ2

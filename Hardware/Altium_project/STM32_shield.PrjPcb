@@ -72,7 +72,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXQJAWUX
 
+[Document3]
+DocumentPath=STM32_shield.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YVUJHKUX
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for STM32_shield\Design Rule Check - STM32_shield.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for STM32_shield\STM32_shield.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for STM32_shield\STM32_shield.xls
 DItemRevisionGUID=
 
@@ -211,6 +236,8 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=AdvSimNetlistView|SimulationName=Mixed Sim|ProfileId=GGJPGTPN|OldCfgLoaded=True
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -869,11 +896,11 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=2
 Type15=1
 Type16=1
 Type17=1
@@ -984,7 +1011,7 @@ L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
+L9=NWEENEEENNEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN

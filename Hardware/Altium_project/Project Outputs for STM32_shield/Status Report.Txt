@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [STM32_shield.PrjPcb]
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [STM32_shield.PrjPcb]
+   Generated File[STM32_shield.nsx]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:24:17 On 09.10.2019
+Finished Output Generation At 13:07:12 On 12.10.2019
